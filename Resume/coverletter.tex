@@ -1,0 +1,149 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, letterpaper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-skyblue}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo[circle,noedge,left]{profile}
+\name{Jacob}{Gordon}
+\position{Candidate for Bachelors of Engineering{\enskip\cdotp\enskip}Software Engineering}
+\address{277 Bowman Street, Hamilton, Canada}
+
+\mobile{905-407-7322}
+\email{gordoj7@mcmaster.ca}
+%\homepage{}
+\github{jzar}
+\linkedin{jgordonzarankin}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \extrainfo{extra informations}
+
+%\quote{Automation | Machine Learning | Security}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {Delcia Aguiar}
+  {CAS UG Recruitment}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Job Application for CAS UG Ambassador Position}
+% How the letter is opened
+\letteropening{Dear Delcia Aguiar,}
+% How the letter is closed
+\letterclosing{Best Regards,}
+% Any enclosures with the letter
+%\letterenclosure[Attached]{resume}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+%\makecvfooter
+%  {\today}
+%  {Claud D. Park~~~·~~~Cover Letter}
+%  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+\lettersection{About Me}
+My name is Jacob Gordon and I am a third year software engineering student at McMaster. I am heavily
+involved within the engineering community at McMaster. I am an executive member on several software related groups,
+and have been a welcome year rep for 2 years now. I thrive in opportunities for public speaking and dealing with people.
+Just last week I gave my first talk at a conference, and was selected to based on my strong communication skills.
+As well, I have been involved in several recruitment events for McMaster already. I was asked to volunteer at the #HireMcMaster 
+campaign opening event as the ECCS believed I was a student who could properly represent the software engineering community.
+As well, I have participated in several events in the past year the centred around second year stream selection, 
+where I represented software engineering. I work well in teams, which I have demonstrated in my work as a welcome week rep,
+and as the project manager of the Artificial Intelligence Society. 
+
+\lettersection{Why CAS Ambassador?}
+I'm interested in this position as I love McMaster software engineering, and would be thrilled to advocate for it. 
+Software engineering has provided me with many opportunities, and the chance to give back and tell others about my experiences 
+within the faculty would be something I'd really enjoy. I volunteer as often as I can with events similar to this position, so
+for me, it makes sense to tr
+
+\lettersection{Why Me?}
+
+As I'm involved with the community, I can provide a better sense of the CAS experience to prospective students.
+I have experience from similar volunteer positions, and from my time as a welcome week rep, I have become very comfortable with 
+talking briefly to many students about life within McMaster engineering, and software engineering. I love the program, and feel I would 
+do a wonderful job representing it!
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+
+\makeletterclosing
+
+\end{document}

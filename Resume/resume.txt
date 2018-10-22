@@ -1,0 +1,105 @@
+Jacob Gordon
+
+CANDIDATE FOR BACHELORS OF ENGINEERING · SOFTWARE ENGINEERING
+277 Bowman Street,Hamilton, ON, Canada
+
+ü 905-407-7322 | Ó gordoj7@mcmaster.ca
+
+|  jzar |  jgordonzarankin
+
+Summary
+• Languages: Python, Java, C, C++, JavaScript, Go, Bash, PowerShell, SQL, R, Octave, Verilog
+• Tools: TensorFlow, Jupyter, Unix/Linux, Git, SVN, Agile/DevOps Methodologies, Microsoft Azure, Arduino, LATEX
+
+Professional Experience
+ArcelorMittal Dofasco
+
+Hamilton, Canada
+
+INFORMATION SECURITY ANALYST
+
+May 2018 - Sep. 2018
+
+• Application Security, Networking, Unix/Linux
+• Advised the Global ArcelorMittal InfoSec team on how to improve security policies’ alignment with various global standards and regulations, helping
+to protect 200,000 employees and 68.67 billion USD of revenue
+• Managed SIEM, Firewall, IPS in order to monitor and control internet traffic and protect production systems
+• Researched and implemented secure software development training for in-house development team
+• Performed application security investigations following agile sprints
+• Wrote scripts to automate tedious tasks
+
+Realtors Association of Hamilton-Burlington
+
+Hamilton, Canada
+
+ARTIFICIAL INTELLIGENCE / MACHINE LEARNING PANEL SPEAKER
+
+September 25, 2018
+
+• Member of a panel to discuss the applications for artificial intelligence, machine learning, and data science in the real estate world
+• Tasked with explaining AI basics, providing resources, and running a workshop to further explain AI technologies in a more hands-on manner
+• https://www.rahb.ca/2018/08/pro-dev-speakers-2018/
+
+McMaster Artificial Intelligence Society
+SOFTWARE PROJECT MANAGER
+
+•
+•
+•
+•
+
+Hamilton, Canada
+Sep. 2018 - Present
+
+Manager for all McMaster AI projects, including collaborations with McMaster Mars Rover team, and various club sponsors
+In charge of leading and mentoring 100 members in software development, with members of various skill levels and academic backgrounds
+Implemented agile methodologies
+Assisted in running TensorFlow and Python workshops for beginner members
+
+Projects
+PromEtherus | ”Best Pitch” Winner - Hack The Valley
+
+University of Toronto
+
+https://github.com/Jzar/HTVII/
+
+• TensorFlow, Jupyter, Python3, NodeJS, Microsoft Azure, pandas, numpy
+• Developed a neural network that predicts the price of ethereum
+• Made use of historical data, as well as real-time sentiment analysis of ethereum community via natural language processing on tweets from verified
+users tweeting #ethereum
+• Practiced data science concepts during feature selection and data preprocessing.
+
+SeeingIsBusLeaving | ”Sustainable City Challenge” Winner - uOttaHack
+
+University of Ottawa
+
+https://github.com/dcxia/SeeingIsBusleaving
+
+• Arduino, C++ , Autodesk Inventor
+• Real-time map of city bus locations displayed on a 3D printed map of the bus route, with LEDS marking the bus location, aimed to increase use and
+satisfaction with public transit
+• POC tested using Bluetooth instead of GSM module to communicate with back-end, relaying when busses pass a stop
+• Designed to be compact, scalable, use little power, and to erase the annoyance of inaccurate bus scheduling
+
+Education
+McMaster University
+
+Hamilton, Canada
+
+BACHELORS OF ENGINEERING IN SOFTWARE ENGINEERING
+
+May. 2016 - Apr. 2021
+
+Extracurriculars
+2018-2019 VP Finance, McMaster Software Engineering Society
+2018
+
+Co-op Ambassador, McMaster Engineering Co-op and Careers Services Department
+
+2017-2019 Engineering Faculty Orientation Representative, McMaster Engineering Society
+
+Hamilton
+Hamilton
+Hamilton
+
+
