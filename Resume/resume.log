@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2018.9.9)  15 OCT 2018 17:53
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2018.9.9)  8 NOV 2018 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,43 +1283,35 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 15.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 15.
-) (./resume/experience.tex
+) (./resume/education.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 30.
+(Font)              scaled to size 10.0pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 30.
+t line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 30.
+(Font)              scaled to size 9.0pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 30.
+(Font)              scaled to size 8.0pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 30.
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/sc' will be
+(Font)              scaled to size 8.0pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 30.
+(Font)              scaled to size 8.0pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 30.
+t line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 30.
-
-Overfull \hbox (2.92001pt too wide) in paragraph at lines 30--61
-   [] 
- []
-
-) (./resume/projects.tex
+(Font)              scaled to size 8.0pt on input line 16.
+) (./resume/experience.tex)
+(./resume/extracurriculars.tex) (./resume/projects.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 42.
+(Font)              scaled to size 8.00012pt on input line 43.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 42.
-) (./resume/education.tex)
-(./resume/extracurriculars.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 23.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 23.
+(Font)              scaled to size 7.99988pt on input line 43.
 ) [1
 
 ]
@@ -1332,12 +1324,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 39026 strings out of 492962
- 755679 string characters out of 6139098
- 969990 words of memory out of 5000000
- 42523 multiletter control sequences out of 15000+600000
- 536678 words of font info for 104 fonts, out of 8000000 for 9000
+ 39024 strings out of 492962
+ 755581 string characters out of 6139098
+ 970990 words of memory out of 5000000
+ 42522 multiletter control sequences out of 15000+600000
+ 536670 words of font info for 103 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,89p,797b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,89p,797b,899s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
